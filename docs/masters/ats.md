@@ -1,6 +1,6 @@
 # Ricky Faure
 
-Minneapolis, MN | 952-256-5622 | rickyf115@pm.me | linkedin.com/in/ricardo-faure-805175128 | github.com/Rickyf115
+Minneapolis, MN | 952-256-5622 | rickyf115@pm.me | linkedin.com/in/ricardo-faure-805175128 | github.com/oomkilled137
 
 ---
 
@@ -109,7 +109,7 @@ Technologies: Kubernetes
 3D trick engine that models yo-yo string mounts as graph topologies and aims to discover new tricks through pathfinding. Encodes mounts as ordered, schema-validated string traversals with canonical serialization and hash-based deduplication, renders them in an interactive 3D visualizer with switchable cameras and timeline scrubbing, and animates transitions with a fixed-timestep Verlet rope physics simulation.
 
 Technologies: TypeScript, React, react-three-fiber, 3D visualization, graph modeling, pathfinding, physics simulation, Zod schema validation, Vite, pnpm monorepo, vitest
-Link: https://github.com/Rickyf115/yoyo-mount-visualizer
+Link: https://github.com/oomkilled137/yoyo-mount-visualizer
 
 ### Spin Ledger (closed source)
 
@@ -128,14 +128,14 @@ Technologies: Docker, Caddy, reverse proxy, TLS, DNS, VPN tunneling, NAS, Linux,
 Self-hosted weekly RSS digest that tracks releases from curated open source projects. A watchlist YAML feeds GitHub Actions to fetch releases, generate an XML feed, and publish via GitHub Pages, with Slack/Discord webhook notifications and state management to avoid duplicate alerts.
 
 Technologies: JavaScript, GitHub Actions, RSS/Atom, GitHub Pages, YAML
-Link: https://github.com/Rickyf115/oss-feed
+Link: https://github.com/oomkilled137/oss-feed
 
 ### Rubik's Cube Genetic Algorithm Solver
 
 Evolutionary algorithm that solves a fully simulated Rubik's Cube model, exploring genetic computation applied to combinatorial optimization.
 
 Technologies: Python, genetic algorithms, matrix math
-Link: https://github.com/Rickyf115/rubiksCubeGeneticAlgo
+Link: https://github.com/oomkilled137/rubiksCubeGeneticAlgo
 
 ### SafetyNet
 
